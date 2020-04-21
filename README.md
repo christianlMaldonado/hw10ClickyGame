@@ -1,2 +1,2 @@
-# hw10ClickyGame
+# hw10 Node and Express
 Node and Express project!
